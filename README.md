@@ -1,9 +1,9 @@
 # Rootsrevealed
-Das Coding-Projekt des Informatikkurs
+Das Coding-Projekt des Informatikkurses
 
 Gedcom to .csv conversion: Kai
 
-Klasse entwickeln: Justus K, Birk, Martin, Justus W
+Klasse entwickeln: Birk, Martin, Justus W
 
 Stammbaum visualisieren: Ivan, Timo, Jesper
 
@@ -14,3 +14,16 @@ s
 
 
 jameivhgf
+
+### Installation
+
+<details>
+<summary>MacOS</summary>
+
+`python3 -m pip install -r requirements.txt`
+
+</details>
+
+Auf Windows:
+
+`py -m pip install -r requirements.txt`
