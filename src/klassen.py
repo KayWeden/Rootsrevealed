@@ -29,8 +29,14 @@ class Individual:
     def __init__(self, element: IndividualElement):
         self.__element = element 
     
+<<<<<<< HEAD
+    def get_generation(self):
+
+
+=======
     def get_element(self):
         return self.__element
+>>>>>>> 5f0bc91c848f9e7e2fb611aa0022523eb63fac79
 
     @staticmethod
     def is_individual(element: Element) -> bool:
